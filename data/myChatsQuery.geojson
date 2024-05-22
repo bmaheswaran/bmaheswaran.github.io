@@ -1,0 +1,139 @@
+{
+    "__typename": "Query",
+    "myChatThreads": [
+        {
+            "id":  "",
+            "creationDateTimeUtc": "",
+            "lastUpdateDateTimeUtc": "dayjs()",
+            "topic": "Test1",
+            "lastMessage": {
+                "chatThreadId": "8978",
+                "creationDateTimeUtc": "",
+                "id": "1234",
+                "isPinned": false,
+                "lastUpdateDateTimeUtc": "?",
+                "senderId": "4567",
+                "type": "MESSAGE",
+                "content": {
+                    "message": "Hi, How are you?",
+                    "chatUserIds": ["123","1456"],
+                    "chatUsers": [
+                        {
+                            "creationDateTimeUtc": "",
+                            "id": "123",
+                            "chatThreads": [],
+                            "lastSeenOnDateTimeUtc": "",
+                            "lastUpdateDateTimeUtc": "",
+                            "participants": [],
+                            "userId": "789"
+                        }, 
+                        {
+                            "creationDateTimeUtc": "",
+                            "id": "789",
+                            "chatThreads": [],
+                            "lastSeenOnDateTimeUtc": "",
+                            "lastUpdateDateTimeUtc": "",
+                            "participants": [],
+                            "userId": "789"
+                        }
+                    ]
+                },
+                "historicalContent": [
+                    {
+                        "message": "Hi, How are you?",
+                        "chatUserIds": ["123","1456"],
+                        "chatUsers": [
+                            {
+                                "creationDateTimeUtc": "",
+                                "id": "123",
+                                "chatThreads": [],
+                                "lastSeenOnDateTimeUtc": "",
+                                "lastUpdateDateTimeUtc": "",
+                                "participants": [],
+                                "userId": "789"
+                            }, 
+                            {
+                                "creationDateTimeUtc": "",
+                                "id": "789",
+                                "chatThreads": [],
+                                "lastSeenOnDateTimeUtc": "",
+                                "lastUpdateDateTimeUtc": "",
+                                "participants": [],
+                                "userId": "789"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "chatMessages": [],
+            "chatThreadParticipants": []
+        },
+        {
+            "id": "2",
+            "creationDateTimeUtc": "",
+            "lastUpdateDateTimeUtc": "",
+            "topic": "Test2",
+            "lastMessage": {
+                "chatThreadId": "8978",
+                "creationDateTimeUtc": "",
+                "id": "1234",
+                "isPinned": false,
+                "lastUpdateDateTimeUtc": "?",
+                "senderId": "4567",
+                "type": "MESSAGE",
+                "content": {
+                    "message": "Hi, How are you?",
+                    "chatUserIds": ["123","1456"],
+                    "chatUsers": [
+                        {
+                            "creationDateTimeUtc": "",
+                            "id": "123",
+                            "chatThreads": [],
+                            "lastSeenOnDateTimeUtc": "",
+                            "lastUpdateDateTimeUtc": "",
+                            "participants": [],
+                            "userId": "789"
+                        }, 
+                        {
+                            "creationDateTimeUtc": "",
+                            "id": "789",
+                            "chatThreads": [],
+                            "lastSeenOnDateTimeUtc": "",
+                            "lastUpdateDateTimeUtc": "",
+                            "participants": [],
+                            "userId": "789"
+                        }
+                    ]
+                },
+                "historicalContent": [
+                    {
+                        "message": "Hi, How are you?",
+                        "chatUserIds": ["123","1456"],
+                        "chatUsers": [
+                            {
+                                "creationDateTimeUtc": "",
+                                "id": "123",
+                                "chatThreads": [],
+                                "lastSeenOnDateTimeUtc": "",
+                                "lastUpdateDateTimeUtc": "",
+                                "participants": [],
+                                "userId": "789"
+                            }, 
+                            {
+                                "creationDateTimeUtc": "",
+                                "id": "789",
+                                "chatThreads": [],
+                                "lastSeenOnDateTimeUtc": "",
+                                "lastUpdateDateTimeUtc": "",
+                                "participants": [],
+                                "userId": "789"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "chatMessages": [],
+            "chatThreadParticipants": []
+        }
+    ]
+}
